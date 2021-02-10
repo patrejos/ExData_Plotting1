@@ -1,3 +1,6 @@
+I upload my images to the figures folder
+
+
 ## Introduction
 
 This assignment uses data from
